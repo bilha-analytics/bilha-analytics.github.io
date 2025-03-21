@@ -1,5 +1,5 @@
 ---
-title:  "IRFundusSet - Large Dataset "
+title:  "IRFundusSet - Large heterogeneous retinal fundus dataset"
 mathjax: true
 layout: post
 categories: dataset, retinal fundus, 
