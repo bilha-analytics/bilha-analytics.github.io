@@ -6,7 +6,7 @@ categories: graph learning, hypergraph, convolution
 ---
 
 
-<p align='center'><b> Constructing your own hypergraphs</b>
+<p align='center'><b> Constructing your own hypergraph</b></br>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_intro.png?raw=true' width='450'>
 </p> 
 
@@ -36,7 +36,7 @@ Graph learning tasks are diverse, including classifying individual nodes, predic
 
 *A hypergraph* is a generalization of a traditional graph where an edge (now called a hyperedge) can connect two or more vertices. This allows for a much richer representation of complex associations. Think of a hyperedge as a group of related entities, capturing the idea that their interaction is not just a series of pairwise relationships, but a collective one.
 
-<p align='center'><b> Formal representation of a hypergraph</b>
+<p align='center'><b> Formal representation of a hypergraph</b></br>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_intro.png?raw=true' width='450'>
 </p> 
 
