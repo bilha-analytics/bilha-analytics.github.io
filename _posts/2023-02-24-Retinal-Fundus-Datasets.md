@@ -7,9 +7,9 @@ categories: dataset, retinal fundus,
 
 **TLDR;**
 - Retinal fundus color photographs capture information that's relevant for ocular and systemic diseases. 
-- Several public datasets avail this images. 
+- Several public datasets avail these images. 
 - Not a bad place to start when learning computer vision tasks for health data. 
-- Research opportunities  
+- Some research opportunities
 
 
 Globally, vision impairment and vision-threatening conditions are a growing concern, affecting an estimated 2.2 billion people. This increasing prevalence places a significant health and economic burden on individuals and societies, a burden expected to worsen with population growth and aging demographics. 
