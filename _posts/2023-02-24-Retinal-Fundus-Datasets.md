@@ -20,7 +20,7 @@ The analysis of these images through computational tools and artificial intellig
 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/ncov_bot_app/blob/master/rfp_eg-pathologies.png?raw=true' width='450'> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/rfp_eg-pathologies.png?raw=true' width='450'> 
 </p> 
 
 
@@ -30,7 +30,7 @@ Publicly accessible RFP datasets have contributed significantly to advancing res
 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/ncov_bot_app/blob/master/rfp_eg-public-datasets.png?raw=true' width='450'> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/rfp_eg-public-datasets.png?raw=true' width='450'> 
 </p> 
 
 

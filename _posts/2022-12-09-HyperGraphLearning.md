@@ -5,6 +5,12 @@ layout: post
 categories: graph learning, hypergraph, convolution  
 ---
 
+
+<p align='center'><b> Constructing your own hypergraphs</b>
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_intro.png?raw=true' width='450'>
+</p> 
+
+
 **TLDR;**
 - Real-world scenarios entail complex relationships between multiple entities. 
 - Hypergraphs capture more than pairwise relationships, encoding complex relationships. 
@@ -31,24 +37,19 @@ Graph learning tasks are diverse, including classifying individual nodes, predic
 *A hypergraph* is a generalization of a traditional graph where an edge (now called a hyperedge) can connect two or more vertices. This allows for a much richer representation of complex associations. Think of a hyperedge as a group of related entities, capturing the idea that their interaction is not just a series of pairwise relationships, but a collective one.
 
 <p align='center'><b> Formal representation of a hypergraph</b>
-    <img src='https://github.com/bilha-analytics/ncov_bot_app/blob/master/hgnn_intro.png?raw=true' width='450'>
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_intro.png?raw=true' width='450'>
 </p> 
 
 Hypergraphs are often represented using an incidence matrix, where rows correspond to vertices and columns represent hyperedges. An entry in the matrix indicates whether a particular vertex belongs to a specific hyperedge. This is demonstrated in the figure above. 
 
 
-<p align='center'><b> Constructing your own hypergraphs</b>
-    <img src='https://github.com/bilha-analytics/ncov_bot_app/blob/master/hgnn_intro.png?raw=true' width='450'>
-</p> 
-
-
-*Hypergraph Estimation:* Since data isn't always naturally structured as a hypergraph, various hypergraph estimation methods exist to infer these higher-order relationships from data. These methods can be based on the similarity between entities (e.g., k-nearest neighbors, k-means clustering), attributes of the entities, or even hop-aggregates in an existing graph. This is illustrated in the figure above. From this estimation exercise, the hypergraph incidence matrix is constructed. 
+*Hypergraph Estimation:* Since data isn't always naturally structured as a hypergraph, various hypergraph estimation methods exist to infer these higher-order relationships from data. These methods can be based on the similarity between entities (e.g., k-nearest neighbors, k-means clustering), attributes of the entities, or even hop-aggregates in an existing graph. This is illustrated in the very first figure above. From this estimation exercise, the hypergraph incidence matrix is constructed. 
 
 
 *Formal Definition:* Formally, a hypergraph `$𝐺 = (𝑉 ,𝐸,𝐻,𝑊 ,𝑋)$` consists of a set of  vertices `$𝑉 = {𝑣1,…,𝑣𝑛}$` and a set of hyperedges `$𝐸 = {𝑒1,…,𝑒𝑚}$` depicting the relationships between the vertices. The associated incidence matrix `$𝐻 ∈ ℝ𝑛×𝑚$` and hyperedge weights `$𝑊 ∈ ℝ𝑚×𝑚$` encode relational structure, while the vertex features `$𝑋 ∈ ℝ𝑛×𝑑$` capture content information. The incidence matrix `$𝐻$` is a binary matrix and the strengths of the hyperedge connections are represented in the diagonal matrix `$𝑊$`. The feature matrix `$𝑋$` holds the input features of each vertex as a one-dimensional vector `$𝑋(𝑣𝑖) = 𝑥𝑖 ∈ ℝ𝑑$`.
 
 <p align='center'> 
-    <img src='https://github.com/bilha-analytics/ncov_bot_app/blob/master/hgnn-math-defn.png?raw=true' width='450'>
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn-math-defn.png?raw=true' width='450'>
 </p> 
 
 

@@ -12,6 +12,10 @@ categories: dataset, retinal fundus,
 - <a href="https://arxiv.org/abs/2402.11488" target="_blank"> IRFundusSet paper</a>
 - <a href="https://github.com/bilha-analytics/IRFundusSet" target="_blank">  IRFundusSet on Github </a> 
 
+<p align='center'><b> Composition of IRFundusSet</b> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/rfp_result-irfunduset.png?raw=true' width='450'> 
+</p> 
+
 
 Availability and quality of training data is a common challenge when developing AI models.  Obtaining comprehensive and sufficiently sized datasets of health-related datasets is non-trivial.
 
@@ -23,11 +27,6 @@ The Integrated Retinal Fundus Set (IRFundusSet) aims to consolidate, harmonize, 
 - The primary goal of IRFundusSet is to facilitate the consumption of these previously fragmented datasets as a cohesive whole by harmonizing the pixel data and providing a consistent "is_normal" label across all included images. 
 
 - Furthermore, a user-friendly Python package has been created to automate the harmonization process and provide a standardized dataset object that is compatible with popular deep learning frameworks like PyTorch.
-
-<p align='center'><b> Composition of IRFundusSet</b>
-    <a href="https://arxiv.org/abs/2402.11488" target="_blank"> 
-    <img src='https://github.com/bilha-analytics/ncov_bot_app/blob/master/rfp_result-irfunduset.png?raw=true' width='450'> </a>
-</p> 
 
 
 **Accessing IRFundusSet** 
