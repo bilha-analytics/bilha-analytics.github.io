@@ -7,7 +7,7 @@ categories: graph learning, hypergraph, convolution
 
 
 <p align='center'><b> Constructing your own hypergraph</b></br>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_intro.png?raw=true' width='450'>
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_construction.png?raw=true' width='450'>
 </p> 
 
 
