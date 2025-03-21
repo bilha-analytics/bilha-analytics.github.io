@@ -6,7 +6,7 @@ categories: graph learning, hypergraph, convolution
 ---
 
 **TLDR;**
-- Real-world scenarios entail complex relationships betwen multiple entities. 
+- Real-world scenarios entail complex relationships between multiple entities. 
 - Hypergraphs capture more than pairwise relationships, encoding complex relationships. 
 - You can construrct a hypergraph for non-graphical data; define your nodes and hyperedges using various similarity-based approaches. 
 
