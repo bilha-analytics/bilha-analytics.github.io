@@ -5,17 +5,15 @@ layout: post
 categories: graph learning, hypergraph, convolution  
 ---
 
-
-<p align='center'><b> Constructing your own hypergraph</b></p>
-<p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_construction.png?raw=true' width='450'>
-</p> 
-
-
 **TLDR;**
 - Real-world scenarios entail complex relationships between multiple entities. 
 - Hypergraphs capture more than pairwise relationships, encoding complex relationships. 
 - You can construrct a hypergraph for non-graphical data; define your nodes and hyperedges using various similarity-based approaches. 
+
+<p align='center'>Constructing your own hypergraph</p>
+<p align='center'>
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_construction.png?raw=true' width='450'>
+</p> 
 
 
 **Beyond Pairs: Exploring the Power of Graph Learning and Hypergraphs**
