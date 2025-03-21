@@ -12,7 +12,7 @@ categories: dataset, retinal fundus,
 - <a href="https://arxiv.org/abs/2402.11488" target="_blank"> IRFundusSet paper</a>
 - <a href="https://github.com/bilha-analytics/IRFundusSet" target="_blank">  IRFundusSet on Github </a> 
 
-<p align='center'><b> Composition of IRFundusSet</b> </br>
+<p align='center'><b> Composition of IRFundusSet</b> <br\>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/rfp_result-irfunduset.png?raw=true' width='450'> 
 </p> 
 
