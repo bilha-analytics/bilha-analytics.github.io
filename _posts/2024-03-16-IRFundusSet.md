@@ -26,7 +26,7 @@ The Integrated Retinal Fundus Set (IRFundusSet) aims to consolidate, harmonize, 
 
 <p align='center'><b> Composition of IRFundusSet</b>
     <a href="https://arxiv.org/abs/2402.11488" target="_blank"> 
-    <img src='https://github.com/bilha-analytics/ncov_bot_app/blob/master/retinal_fundus/result-irfunduset.png?raw=true' width='450'> </a>
+    <img src='https://github.com/bilha-analytics/ncov_bot_app/blob/master/rfp_result-irfunduset.png?raw=true' width='450'> </a>
 </p> 
 
 
