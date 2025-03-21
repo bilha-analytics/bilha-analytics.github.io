@@ -10,7 +10,7 @@ categories: graph learning, hypergraph, convolution
 - Hypergraphs capture more than pairwise relationships, encoding complex relationships. 
 - You can construrct a hypergraph for non-graphical data; define your nodes and hyperedges using various similarity-based approaches. 
 
-<p align='center'>Constructing your own hypergraph</p>
+<p align='center'>Figure: Constructing your own hypergraph</p>
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_construction.png?raw=true' width='450'>
 </p> 
@@ -35,7 +35,7 @@ Graph learning tasks are diverse, including classifying individual nodes, predic
 
 *A hypergraph* is a generalization of a traditional graph where an edge (now called a hyperedge) can connect two or more vertices. This allows for a much richer representation of complex associations. Think of a hyperedge as a group of related entities, capturing the idea that their interaction is not just a series of pairwise relationships, but a collective one.
 
-<p align='center'><b> Formal representation of a hypergraph</b></p>
+<p align='center'>Figure: Formal representation of a hypergraph</p>
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/hgnn_intro.png?raw=true' width='450'>
 </p> 
