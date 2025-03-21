@@ -4,8 +4,6 @@ permalink: "/datasets/"
 layout: page
 ---
 
-Datasets and data tools
-
 **IRFundusSest**
 - Access a larger and more heterogeneous retinal fundus dataset
 - Integrates and harmonizes pixel-level and label data 
