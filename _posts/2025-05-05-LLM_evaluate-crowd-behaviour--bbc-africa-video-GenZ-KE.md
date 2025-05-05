@@ -55,7 +55,12 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
  
  **What can be said of the role of the different parties?** 
  Figure 1 presents the LLM scores on the general attitude towards the demonstrators compared to that towards the authorities. On the graph, the metric score is on the primary y axis, represented by the bars. The metric score is a value between 0 and 1 (percent value in decimal format). On the secondary y axis (the line snaking across the graph) is the model's confidence in the score it assigned. This too is a percent value. These values are averages of the scores assigned by the model to the entire sample of 5-minutes segments, and where the model felt (:)) that it had enough infor to make a call. 
- PS: Sometimes, the model considered the text not to have enough information for it to infer, and therefore, it returned -99 for `I don't know`.
+ 
+ - Sometimes, the model considered the text not to have enough information for it to infer, and therefore, it returned -99 for `I don't know`.
+
+ - A metric score of 1 means: 1 = 100% = Yes
+ 
+ - A metric score of 0 means: 0 = 0% = No
  
  
 <p align='center'>
