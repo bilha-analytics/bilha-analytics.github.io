@@ -44,7 +44,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
 
 
 ## Some results
- **LLM Credibility:** Table 1 below shows how well the LLMs worked with the provided input and whether they seemed to lean towards a particular score in the provided binary and likert scales. The runs with data points from the 5-minutes long segments and using Mistral LLM seem to be relatively consistent across the different checks. The next sections will focus on that set of results. 
+ **LLM Suitability:** Table 1 below shows how well the LLMs worked with the provided input and whether they seemed to lean towards a particular score in the provided binary and likert scales. The runs with data points from the 5-minutes long segments and using Mistral LLM seem to be relatively consistent across the different checks. The next sections will focus on that set of results. 
 
  <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/01-LLM-cred-check.png?raw=true' width='450'> 
