@@ -76,7 +76,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
  Figure 2 shows the models' take on how the demonstrators and the enforcers acted, specifically looking at whether they seemed to be helping calm things down or not. You can read this chart just like the last one we looked at (Figure 1).
  
  <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-crowd-mind-scores.png?raw=true' width='1350' style="width: 95% !important; "> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-crowd-mind-scores.png?raw=true' width='1550' style="width: 95% !important; "> 
 </p> 
 <p align='center'>Figure 2: Demonstrators Vs Enforcers behaviour</p>
 
