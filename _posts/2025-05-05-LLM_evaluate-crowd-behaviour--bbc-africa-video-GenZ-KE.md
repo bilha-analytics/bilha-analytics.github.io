@@ -8,7 +8,7 @@ categories: LLM-as-a-Judge, LLM experiment, Crowd Behavior
 What insights might an LLM offer if tasked with objectively observing the events presented  in <a href="https://www.bbc.com/news/articles/c8jexr9yv0do" target="_blank"> the recent BBC video</a>? 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='450'> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='450' height="400"> 
 </p> 
 <p align='center'>Figure 1: General attitudes in the video </p>
 
@@ -64,7 +64,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
  
  
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='550'> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='550' height="400"> 
 </p> 
 <p align='center'>Figure 1: General attitutes in the video </p>
 
@@ -76,7 +76,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
  Figure 2 shows the models' take on how the demonstrators and the enforcers acted, specifically looking at whether they seemed to be helping calm things down or not. You can read this chart just like the last one we looked at (Figure 1).
  
  <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-crowd-mind-scores.png?raw=true' width='550'> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-crowd-mind-scores.png?raw=true' width='550' height="400"> 
 </p> 
 <p align='center'>Figure 2: Demonstrators Vs Enforcers behaviour</p>
 
