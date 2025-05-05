@@ -8,7 +8,7 @@ categories: LLM-as-a-Judge, LLM experiment, Crowd Behavior
 What insights might an LLM offer if tasked with objectively observing the events presented  in <a href="https://www.bbc.com/news/articles/c8jexr9yv0do" target="_blank"> the recent BBC video</a>? 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='850' style="width: 90% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='1250' style="width: 90% !important;"> 
 </p> 
 <p align='center'>Figure 1: General attitudes in the video </p>
 
@@ -47,7 +47,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
  **LLM Suitability:** Table 1 below shows how well the LLMs worked with the provided input and whether they seemed to lean towards a particular score in the provided binary and likert scales. The runs with data points from the 5-minutes long segments and using Mistral LLM seem to be relatively consistent across the different checks. The next sections will focus on that set of results. 
 
  <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/01-LLM-cred-check.png?raw=true' width='650'> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/01-LLM-cred-check.png?raw=true' width='750'> 
 </p> 
 <p align='center'>Table 1: Checking LLM's suitability for the task</p>
 
@@ -64,7 +64,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
  
  
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='850' style="width: 90% !important; "> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='1250' style="width: 90% !important; "> 
 </p> 
 <p align='center'>Figure 1: General attitutes in the video </p>
 
@@ -76,7 +76,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
  Figure 2 shows the models' take on how the demonstrators and the enforcers acted, specifically looking at whether they seemed to be helping calm things down or not. You can read this chart just like the last one we looked at (Figure 1).
  
  <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-crowd-mind-scores.png?raw=true' width='850' style="width: 90% !important; "> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-crowd-mind-scores.png?raw=true' width='1250' style="width: 90% !important; "> 
 </p> 
 <p align='center'>Figure 2: Demonstrators Vs Enforcers behaviour</p>
 
@@ -96,13 +96,13 @@ Therefore, the process becomes a collaborative one. We bring our human understan
 ## Metrics 
  
  <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/tbl-metrics-overall.png?raw=true' width='650'> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/tbl-metrics-overall.png?raw=true' width='750'> 
 </p> 
 <p align='center'>Table 2: Metrics on general attitude</p>
 
 
  <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/tbl-metrics-crowd-mind.png?raw=true' width='650'> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/tbl-metrics-crowd-mind.png?raw=true' width='750'> 
 </p> 
 <p align='center'>Table 3: Metrics on some crowd dynamics</p>
 
