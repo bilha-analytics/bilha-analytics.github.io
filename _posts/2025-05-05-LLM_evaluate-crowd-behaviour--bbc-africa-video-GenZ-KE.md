@@ -10,7 +10,7 @@ What insights might an LLM offer if tasked with objectively observing the events
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='450'> 
 </p> 
-<p align='center'>Figure 1: Overall </p>
+<p align='center'>Figure 1: General attitudes in the video </p>
 
 
 This post is basically me playing around with the idea of using a Large Language Model to see if it can offer an objective, almost 'just the facts' kind of take on what went down. We'll use the video as our guinea pig to explore what these AI tools can and can't really tell us about human behavior and how crowds act in situations like this. Heads up: this isn't about saying what's right or wrong, just a bit of a techie thought experiment! 
@@ -61,7 +61,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-overall-scores.png?raw=true' width='450'> 
 </p> 
-<p align='center'>Figure 1: Overall </p>
+<p align='center'>Figure 1: General attitutes in the video </p>
 
  A couple of observations: 
  - It looks like the way the report talks about the authority figures isn't quite the same as how it portrays the demonstrators. If you look at Figure 1, the overall feeling towards the authorities is not found to be similar to that towards the demonstrators.
@@ -73,7 +73,7 @@ On top of looking at how the LLMs analyze the crowd behavior, I also threw in a 
  <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/mistral-5mins-crowd-mind-scores.png?raw=true' width='450'> 
 </p> 
-<p align='center'>Figure 2: Checking LLM's suitability for the task</p>
+<p align='center'>Figure 2: Demonstrators Vs Enforcers behaviour</p>
 
  
 
@@ -93,7 +93,7 @@ Therefore, the process becomes a collaborative one. We bring our human understan
  <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/tbl-metrics-overall.png?raw=true' width='450'> 
 </p> 
-<p align='center'>Table 2: Metrics on overall attitude</p>
+<p align='center'>Table 2: Metrics on general attitude</p>
 
 
  <p align='center'>
