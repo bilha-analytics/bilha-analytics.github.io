@@ -93,7 +93,7 @@ Therefore, the process becomes a collaborative one. We bring our human understan
 
 
 
- ## Metrics 
+## Metrics 
  
  <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/bbc-video/tbl-metrics-overall.png?raw=true' width='450'> 
