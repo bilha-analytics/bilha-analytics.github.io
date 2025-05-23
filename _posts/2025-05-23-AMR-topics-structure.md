@@ -100,13 +100,14 @@ Let's dive into the prominet topics across the dataset and then a closer look at
 
 Figure 1 below depicts the main topics spanning the entire reserch period. The color-coded regions are document clusters for a given topic. The larger the region the more documents fall under that topic. To complement this figure, figure 2 lists out the top 10 terms for the top 4 topics in this dataset. The top 4 topics are
 
-- Urinary Traact Infections (UTIs) and infections in nursing homes. This is titled `Topic 0` in the figure 2. 
+**TODO:  update figure titles**
+- Urinary Traact Infections (UTIs) and infections in nursing homes. This is titled `Topic 0` in figure 2. 
 
-- Antibiotic prescription practices. This is titled `Topic 1` in the figure 2. 
+- Antibiotic prescription practices. This is titled `Topic 1` in figure 2. 
 
-- Pneumonia or upper respiratory tract infections. This is titled `Topic 2` in the figure 2. Notice how the top terms in this topic include children and hospitalization. 
+- Pneumonia or upper respiratory tract infections. This is titled `Topic 2` in figure 2. Notice how the top terms in this topic include children and hospitalization. 
 
-- Methicillin-resistant Staphylococuss Aureus (MRSA) aspects. This is titled `Topic 3` in the figure 2. 
+- Methicillin-resistant Staphylococuss Aureus (MRSA) aspects. This is titled `Topic 3` in figure 2. 
 
 
 
