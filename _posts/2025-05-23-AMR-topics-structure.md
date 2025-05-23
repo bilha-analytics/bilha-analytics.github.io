@@ -48,12 +48,45 @@ To do this we mine and analyze a collection of 880 abstracts from PubMed (a vast
 
 
 <caption>Table 1: The number of documents</caption>
-| period              |   count  |   proportion | min_year | max_year | n_years |
-|:-------------------------|--------:|-------------:|--------:|--------:|--------:|
-| Before COVID-19          |     519 |     59% | 1967 | 2019 | 52 |
-| During or After COVID-19 |     361 |     41% | 2020 | 2025 | 5 | 
-|:-------------------------|--------:|-------------:|--------:|--------:|--------:|
-| Total |     880 |     100% |
+<table>
+  <thead>
+    <tr>
+      <th>period</th>
+      <th>count</th>
+      <th>proportion</th>
+      <th>min_year</th>
+      <th>max_year</th>
+      <th>n_years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Before COVID-19</td>
+      <td style="text-align:right;">519</td>
+      <td style="text-align:right;">59%</td>
+      <td style="text-align:right;">1967</td>
+      <td style="text-align:right;">2019</td>
+      <td style="text-align:right;">52</td>
+    </tr>
+    <tr>
+      <td>During or After COVID-19</td>
+      <td style="text-align:right;">361</td>
+      <td style="text-align:right;">41%</td>
+      <td style="text-align:right;">2020</td>
+      <td style="text-align:right;">2025</td>
+      <td style="text-align:right;">5</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Total</td>
+      <td style="text-align:right;">880</td>
+      <td style="text-align:right;">100%</td>
+      <td colspan="3"></td>
+    </tr>
+  </tfoot>
+</table>
+
 
 
 
