@@ -123,17 +123,26 @@ Figure 1 below depicts the main topics spanning the entire reserch period. The c
 
 
 ## Before Vs During and after pandemic
-Similar to figures 1 and 2 above, figures 4 and 5 show the main topics before the pandemic, while figures 6 and 7 illustrate the main topics during and after pandemic. 
+Figure 3 is a distribution of the above identifed topics by pandemic period. 
+
+  - The focus before pandemic was on  UTI and nursing homes, pneumonia and upper respiratory tract infections, and antibiotic prescription practices. 
+  - During and after the pandemic, there's a shift that prioritizes antibiotic prescription practices, followed by UTIs and nursing homes, and then pneumonia. 
+
+
+<p align='center'>
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/topics-by-covid-period-from-all-data-fit.png?raw=true' width='1350' style="width: 95% !important;"> 
+</p> 
+<p align='center'>Figure 3: Topic clusters before pandemic.</p>
+
+
+
+Similar to figures 1 above, figures 4 shows the main topics before the pandemic, while figures 5 illustrates the main topics during and after pandemic. 
 
 
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/document-clusters__Before COVID-19.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 4: Topic clusters before pandemic.</p>
-<p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/topic-words-b4-covid.png?raw=true' width='1350' style="width: 95% !important;"> 
-</p> 
-<p align='center'>Figure 5: Top 10 terms for the top 4 topics before pandemic.</p>
 
 
 
@@ -144,16 +153,12 @@ Similar to figures 1 and 2 above, figures 4 and 5 show the main topics before th
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/document-clusters__During or After COVID-19.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
-<p align='center'>Figure 6: Topic clusters during and after pandemic.</p>
-<p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/topic-words-a5-covid.png?raw=true' width='1350' style="width: 95% !important;"> 
-</p> 
-<p align='center'>Figure 7: Top 10 terms for the top 4 topics during and after pandemic.</p>
+<p align='center'>Figure 5: Topic clusters during and after pandemic.</p>
 
 
 - During and after the pandemic, focus is primarily on AMR as a general topic, and potentially regarding hospital-acquired infections, and nursing homes and elderly care. 
 
-    - A deep dive into these documents is presented in figures 8 and 9. 
+    - A deep dive into these documents is presented in figures 6 and 7. 
 
     - In the thematic map (figure 7), the main disease/condition areas remain. I.E. UTI, pneumonia and upper respiratory tract infections, nursing homes/elderly care, and MRSA/bacterial strains and resistance. 
     
@@ -168,13 +173,13 @@ Similar to figures 1 and 2 above, figures 4 and 5 show the main topics before th
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/thematic-map-1-abs-3gram.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
-<p align='center'>Figure 8: Thematic map of 3-gram terms in abstracts published during or after pandemic.</p>
+<p align='center'>Figure 6: Thematic map of 3-gram terms in abstracts published during or after pandemic.</p>
 
 
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/after-covid-abs.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
-<p align='center'>Figure 9: Summary of abstract text during and after pandemic.</p>
+<p align='center'>Figure 7: Summary of abstract text during and after pandemic.</p>
 
 
  
