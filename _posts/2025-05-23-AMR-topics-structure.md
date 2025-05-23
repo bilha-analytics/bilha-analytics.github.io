@@ -1,14 +1,14 @@
 ---
-title:  "Assessing Crowd Behaviour w/ LLM - BBC  Africa Eye - Kenya Anti-tax Protesters"
+title:  "WIP: AMR Topic Shifts Before & After COVID-19 - Tools and Techniques for Community-level AMR"
 mathjax: true
 layout: post
-categories: LLM-as-a-Judge, LLM experiment, Crowd Behavior 
+categories: AMR, antimicrobial resistance, topic analysis
 ---
 
-What insights might an LLM offer if tasked with objectively observing the events presented  in <a href="https://www.bbc.com/news/articles/c8jexr9yv0do" target="_blank"> the recent BBC video</a>? 
+
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/document-clusters.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/document-clusters.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 1: Topics across the entire dataset</p>
 
@@ -78,11 +78,11 @@ Figure 1 below depicts the main topics spanning the entire reserch period. The c
 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/document-clusters.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/document-clusters.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 1: Topics across the entire dataset.</p>
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/topic-words-all.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/topic-words-all.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 2: Top 10 terms for the top 4 topics.</p>
 
@@ -94,11 +94,11 @@ Similar to figures 1 and 2 above, figures 4 and 5 show the main topics before th
 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/document-clusters__Before COVID-19.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/document-clusters__Before COVID-19.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 4: Topic clusters before pandemic.</p>
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/topic-words-b4-covid.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/topic-words-b4-covid.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 5: Top 10 terms for the top 4 topics before pandemic.</p>
 
@@ -109,11 +109,11 @@ Similar to figures 1 and 2 above, figures 4 and 5 show the main topics before th
 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/document-clusters__During or After COVID-19.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/document-clusters__During or After COVID-19.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 6: Topic clusters during and after pandemic.</p>
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/topic-words-a5-covid.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/topic-words-a5-covid.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 7: Top 10 terms for the top 4 topics during and after pandemic.</p>
 
@@ -133,13 +133,13 @@ Similar to figures 1 and 2 above, figures 4 and 5 show the main topics before th
 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/thematic-map-1-abs-3gram.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/thematic-map-1-abs-3gram.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 8: Thematic map of 3-gram terms in abstracts published during or after pandemic.</p>
 
 
 <p align='center'>
-    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amr/after-covid-abs.png?raw=true' width='1350' style="width: 95% !important;"> 
+    <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/after-covid-abs.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
 <p align='center'>Figure 9: Summary of abstract text during and after pandemic.</p>
 
