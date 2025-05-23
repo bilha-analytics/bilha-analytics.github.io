@@ -190,6 +190,9 @@ Similar to figures 1 and 2 above, figures 4 and 5 show the main topics before th
 
 
 # References 
+- [WHO AMR page](https://www.who.int/health-topics/antimicrobial-resistance) 
+
+- [WHO global research priorities for antimicrobial resistance in human health](https://doi.org/10.1016/S2666-5247(24)00134-4)
 
 - [Antimicrobial resistance burden pre and post-COVID-19 pandemic with mapping the multidrug resistance in Egypt: a comparative cross-sectional study](https://doi.org/10.1038/s41598-024-56254-4)
 
