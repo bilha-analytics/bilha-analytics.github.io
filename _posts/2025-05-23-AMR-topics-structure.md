@@ -162,9 +162,9 @@ Similar to figures 1 above, figures 4 shows the main topics before the pandemic,
 
     - In the thematic map (figure 7), the main disease/condition areas remain. I.E. UTI, pneumonia and upper respiratory tract infections, nursing homes/elderly care, and MRSA/bacterial strains and resistance. 
     
-    - In addition, emerging (or declining) areas suggest a focus on global public health goals, potential as per WHO guidance. TODO: more info here
+    - In addition, emerging (or declining) areas suggest a focus on global public health goals, potentially as per WHO guidance. TODO: more info here
     
-    - From this, it is not quite clear what specific aspects of AMR, aside from SARS-COV2 related vaccine research, and the second main topic during the period, are being investigated. Unfortunately, with the time available for this analysis, exploring that would be an exercise for another day. 
+    - SARS-COV2 related vaccine research, is the second main topic during the period. 
 
     - What do you think is happening here? 
 
