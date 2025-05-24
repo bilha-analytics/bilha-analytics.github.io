@@ -22,7 +22,7 @@ How we use antimicrobials at home (for ourselves and for animal care/husbandry) 
 Then, COVID-19 happened, and it threw a whole new wrench into the AMR picture. The pandemic brought a complex mix of impacts for AMR. On one hand, there was increased use of broad-spectrum antibiotics in hospitals, which potentially gave the microorganisms more opportunities to evolve and spread resistant strains. For instance, studies from Qatar and Egypt report increased spread in resistant bacteria during the pandemic, while a study from Tanzania finds that antibiotic consumption soared, with specific drugs like levofloxacin, azithromycin and cefotaxime seeing significant spikes. Conversely, the pandemic also pushed us to improve infection prevention and control practices, and some regions reported a decrease in community antibiotic consumption (see references below for more and why). One example here is in Italy, where they observed a decrease in community antibiotic use during the pandemic.   
 
 
-Given these multifaceted impacts, one may wonder how research priorities and discourse around AMR have shifted. 
+Given these multifaceted impacts, one may wonder how research priorities and discourse around AMR have shifted, if at all. 
 
 
 
@@ -183,7 +183,7 @@ Similar to figures 1 above, figure 4 shows the main topics before the pandemic, 
 
 
 # Concluding remarks
-Our exploration into community-level antimicrobial resistance (AMR) research, viewed through our "Multi-Tech Lens," reveals that the landscape is dominated by four enduring areas: Urinary Tract Infections (UTIs) and infections in nursing homes, the critical domain of antibiotic prescription practices, the persistent challenge of pneumonia and upper respiratory tract infections, and bacteria and MRSA research.
+Our exploration into community-level antimicrobial resistance (AMR) research, viewed through a multi-tech lens, reveals that the landscape is dominated by four enduring areas: Urinary Tract Infections (UTIs) and infections in nursing homes, the critical domain of antibiotic prescription practices, the persistent challenge of pneumonia and upper respiratory tract infections, and bacteria and MRSA research.
 
 The comparison between the pre-pandemic era and the period during and after COVID-19 shows a clear shift in focus. Before the pandemic, research prominently addressed UTIs and nursing homes, pneumonia and upper respiratory tract infections, and antibiotic prescription practices. While during and after the pandemic, we observe a noticeable re-prioritization: antibiotic prescription practices have moved to the forefront, and there is a broader emphasis on global public health goals, and bacterial or vaccine research. 
 
