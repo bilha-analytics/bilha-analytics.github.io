@@ -1,8 +1,8 @@
 ---
-title:  "WIP: AMR Topic Shifts Before & After COVID-19 - Tools and Techniques for Community-level AMR"
+title:  "Exploring Research Priorities for Community-level AMR Tools"
 mathjax: true
 layout: post
-categories: AMR, antimicrobial resistance, topic analysis
+categories: AMR, antimicrobial resistance, topic analysis, topic modeling, NLP
 ---
 
 
