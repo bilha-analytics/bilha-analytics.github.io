@@ -22,7 +22,8 @@ How we use antimicrobials at home (for ourselves and for animal care/husbandry) 
 Then, COVID-19 happened, and it threw a whole new wrench into the AMR picture. The pandemic brought a complex mix of impacts for AMR. On one hand, there was increased use of broad-spectrum antibiotics in hospitals, which potentially gave the microorganisms more opportunities to evolve and spread resistant strains. For instance, studies from Qatar and Egypt report increased spread in resistant bacteria during the pandemic, while a study from Tanzania finds that antibiotic consumption soared, with specific drugs like levofloxacin, azithromycin and cefotaxime seeing significant spikes. Conversely, the pandemic also pushed us to improve infection prevention and control practices, and some regions reported a decrease in community antibiotic consumption (see references below for more and why). One example here is in Italy, where they observed a decrease in community antibiotic use during the pandemic.   
 
 
-Given these multifaceted impacts, one may wonder how research priorities and discourse around AMR have shifted. This article takes a look at the topics in published research abstracts from before and after the COVID-19 pandemic.
+Given these multifaceted impacts, one may wonder how research priorities and discourse around AMR have shifted. 
+
 
 
 # What we investigated and how
@@ -40,7 +41,7 @@ This piece is a curious investigation into the kind of community-related AMR res
 
 - Policy and stewardship: community-level antibiotic stewardship programs, local guidelines. 
 
-**A multi-tech lens:** That's a lot to cover! Therefore, this time around, we take a techie's lens - and by that, we mean focusing on any tools and techniques, cutting across both computational and biomedical domains. This narrows our focus to exploring tools and techniques (regardless of other factors, such as whether the tools are for surveillance or identifying social determinants) that might suggest actionable areas. A detailed descrition of the PubMed search term is provided towards the end of the article. 
+**A multi-tech lens:** That's a lot to cover! Therefore, this time around, we take a techie's lens - and by that, we mean focusing on any tools and techniques, cutting across both computational and biomedical domains. This narrows our focus to exploring tools and techniques (regardless of other factors, such as whether the tools are for surveillance or identifying social determinants) that might suggest readily actionable areas. A detailed descrition of the PubMed search term is provided towards the end of the article. 
 
 
 
@@ -94,20 +95,19 @@ Of course, it is important to remember that this analysis is a descriptive revie
 
 
 # Observations
-Let's dive into the prominet topics across the dataset and then a closer look at the key research priorities that dominated before versus after and during COVID-19. 
+Let's first dive into the prominent topics across the dataset and then a closer look at the key research priorities that dominated before versus after and during COVID-19. 
 
 ## Topics across the entire research period
 
-Figure 1 below depicts the main topics spanning the entire reserch period. The color-coded regions are document clusters for a given topic. The larger the region the more documents fall under that topic. To complement this figure, figure 2 lists out the top 10 terms for the top 4 topics in this dataset. The top 4 topics are
+Figure 1 below depicts the main topics discovered. The color-coded regions are document clusters for a given topic. The larger the region the more documents fall under that topic. To complement this figure, figure 2 lists out the top 10 terms for the first 4 popular topics. The 4 popular topics are
 
-**TODO:  update figure titles**
-- Urinary Traact Infections (UTIs) and infections in nursing homes. This is titled `Topic 0` in figure 2. 
+- Urinary Tract Infections (UTIs) and infections in nursing homes. 
 
-- Antibiotic prescription practices. This is titled `Topic 1` in figure 2. 
+- Antibiotic prescription practices. 
 
-- Pneumonia or upper respiratory tract infections. This is titled `Topic 2` in figure 2. Notice how the top terms in this topic include children and hospitalization. 
+- Pneumonia or upper respiratory tract infections. Notice how the top terms in this topic include children and hospitalization. 
 
-- Methicillin-resistant Staphylococuss Aureus (MRSA) aspects. This is titled `Topic 3` in figure 2. 
+- Bacteria or Methicillin-resistant Staphylococuss Aureus (MRSA) aspects that may concern understanding the mechanisms of resistance and exploring new treatment and prevention strategies.  
 
 
 
@@ -118,7 +118,7 @@ Figure 1 below depicts the main topics spanning the entire reserch period. The c
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/topic-words-all.png?raw=true' width='1350' style="width: 95% !important;"> 
 </p> 
-<p align='center'>Figure 2: Top 10 terms for the top 4 topics.</p>
+<p align='center'>Figure 2: Top 10 terms for the 4 popular topics.</p>
 
 
 
@@ -137,8 +137,10 @@ Figure 3 is a distribution of the above identifed topics by pandemic period.
 
 
 
-Similar to figures 1 above, figures 4 shows the main topics before the pandemic, while figures 5 illustrates the main topics during and after pandemic. 
+Similar to figures 1 above, figure 4 shows the main topics before the pandemic, while figure 5 illustrates the main topics during and after pandemic. 
 
+
+- Before the pandemic, pneumonia and bacterial strains are top two, followed by antibiotic prescription practices and UTI and elderly care. 
 
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/document-clusters__Before COVID-19.png?raw=true' width='1350' style="width: 95% !important;"> 
@@ -146,10 +148,7 @@ Similar to figures 1 above, figures 4 shows the main topics before the pandemic,
 <p align='center'>Figure 4: Topic clusters before pandemic.</p>
 
 
-
-- Before the pandemic, pneumonia and bacterial strains are top two, followed by antibiotic prescription practices and UTI and elderly care. 
-
-
+- During and after the pandemic, focus is primarily on AMR as a general topic, and then specifically about SARS-COV2 related vaccine research. 
 
 <p align='center'>
     <img src='https://github.com/bilha-analytics/bilha-analytics.github.io/blob/master/res/amrt1/document-clusters__During or After COVID-19.png?raw=true' width='1350' style="width: 95% !important;"> 
@@ -157,17 +156,16 @@ Similar to figures 1 above, figures 4 shows the main topics before the pandemic,
 <p align='center'>Figure 5: Topic clusters during and after pandemic.</p>
 
 
-- During and after the pandemic, focus is primarily on AMR as a general topic, and potentially regarding hospital-acquired infections, and nursing homes and elderly care. 
+ A deep dive into documents published during and after the pandemic is presented in figures 6 and 7. 
 
-    - A deep dive into these documents is presented in figures 6 and 7. 
+- The main disease and condition areas remain consistently important. Our thematic map (figure 7) confirms sustained focus on Urinary Tract Infections (UTI), pneumonia, upper respiratory tract infections, challenges in nursing homes/elderly care, and the persistent threat of MRSA/bacterial strains and their resistance. 
 
-    - In the thematic map (figure 7), the main disease/condition areas remain. I.E. UTI, pneumonia and upper respiratory tract infections, nursing homes/elderly care, and MRSA/bacterial strains and resistance. 
-    
-    - In addition, emerging (or declining) areas suggest a focus on global public health goals, potentially as per WHO guidance. TODO: more info here
-    
-    - SARS-COV2 related vaccine research, is the second main topic during the period. 
+- In addition to these core areas, emerging (or declining) areas suggest a broader focus on global public health goals, potentially aligning with guidance from the WHO. 
 
-    - What do you think is happening here? 
+- Furthermore, potential niche areas seem to particularly concern patients requiring complex medical care. 
+
+  - Parenteral Nutrition (PN) and Central Venous Catheters (CVCs) are methods for directly delivering nutrients and medication to patients, and that present a high risk for catheter-related bloodstream infections (CRBSI). Due to their invasive nature, patients relying on PN and CVCs are often on prolonged courses of antimicrobials to manage or prevent infections. This extended exposure significantly contributes to the development of antimicrobial resistance, making CRBSIs caused by resistant bacteria especially challenging to treat. AMR studies in this niche area are crucial for identifying strategies to prevent infections (e.g., through improved catheter care or antimicrobial-impregnated catheters) and for investigating novel antimicrobial approaches to combat resistant infections in these vulnerable patient populations.
+
 
 
 
@@ -183,12 +181,22 @@ Similar to figures 1 above, figures 4 shows the main topics before the pandemic,
 <p align='center'>Figure 7: Summary of abstract text during and after pandemic.</p>
 
 
+# Concluding remarks
+Our exploration into community-level antimicrobial resistance (AMR) research, viewed through our "Multi-Tech Lens," reveals that the landscape is dominated by four enduring areas: Urinary Tract Infections (UTIs) and infections in nursing homes, the critical domain of antibiotic prescription practices, the persistent challenge of pneumonia and upper respiratory tract infections, and bacteria and MRSA research.
+
+The comparison between the pre-pandemic era and the period during and after COVID-19 shows a clear shift in focus. Before the pandemic, research prominently addressed UTIs and nursing homes, pneumonia and upper respiratory tract infections, and antibiotic prescription practices. While during and after the pandemic, we observe a noticeable re-prioritization: antibiotic prescription practices have moved to the forefront, and there is a broader emphasis on global public health goals, and bacterial or vaccine research. 
+
+
+For our techies, where do we go from here? Our insights highlight potential junctures for innovation. For instance, imagine building more sophisticated AI models to predict AMR outbreaks in nursing homes, designing smarter decision-support tools for antibiotic prescription, or creating integrated data platforms that track global AMR trends. Or imagine novel antimicrobial strategies for resistant pathogens like MRSA, and augmenting invasive therapeutics to reduce risk of bloodstream infections and bacterial biofilms. What do you think?   
+
+
  
 
 
 
 # Other Notes/Context 
 - Our search strategy on PubMed was intended to capture a broad yet relevant collection of community-level AMR research as **pertains to what actions....**. The search term used was 
+
 ```("Anti-Microbial" or "antimicrobial" or "anti-biotic" or "antibiotic") and (resistance) and (“community level” or “community-level” or “market side” or “demand side” or  “at-home“  or “at home” ) and (tools or methods or techniques or models or "deep learning" or "machine learning" or "generative AI" or "AI" or "LLM" or "large language models")```
 
 
