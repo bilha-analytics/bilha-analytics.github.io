@@ -27,21 +27,21 @@ Given these multifaceted impacts, one may wonder how research priorities and dis
 
 
 # What we investigated and how
-This piece is a curious investigation into the kind of community-related AMR research that was happeninig before the pandemic versus after the pandemic. Now, there are several aspects we could consider when exploring community-level AMR. For instance,
+This piece is a curious investigation into the kind of community-related AMR research that was happening before the pandemic versus after the pandemic. Now, there are several aspects we could consider when exploring community-level AMR. For instance,
 
 - Behavioural aspects: why people misuse antibiotics, public awareness, cultural factors.
 
 - Social determinants: how poverty, education, access to healthcare influence AMR.
 
-- Surveillane: monitoring resistance patterns in the community. 
+- Surveillance: monitoring resistance patterns in the community. 
 
 - Interventions: community-based programs to reduce antibiotic use or improve hygiene.
 
-- Enviromental links: AMR in water, soil, agriculture, and its impact on human communities. 
+- Environmental links: AMR in water, soil, agriculture, and its impact on human communities. 
 
 - Policy and stewardship: community-level antibiotic stewardship programs, local guidelines. 
 
-**A multi-tech lens:** That's a lot to cover! Therefore, this time around, we take a techie's lens - and by that, we mean focusing on any tools and techniques, cutting across both computational and biomedical domains. This narrows our focus to exploring tools and techniques (regardless of other factors, such as whether the tools are for surveillance or identifying social determinants) that might suggest readily actionable areas. A detailed descrition of the PubMed search term is provided towards the end of the article. 
+**A multi-tech lens:** That's a lot to cover! Therefore, this time around, we take a techie's lens - and by that, we mean focusing on any tools and techniques, cutting across both computational and biomedical domains. This narrows our focus to exploring tools and techniques (regardless of other factors, such as whether the tools are for surveillance or identifying social determinants) that might suggest readily actionable areas. A detailed description of the PubMed search term is provided towards the end of the article. 
 
 
 
@@ -107,7 +107,7 @@ Figure 1 below depicts the main topics discovered. The color-coded regions are d
 
 - Pneumonia or upper respiratory tract infections. Notice how the top terms in this topic include children and hospitalization. 
 
-- Bacteria or Methicillin-resistant Staphylococuss Aureus (MRSA) aspects that may concern understanding the mechanisms of resistance and exploring new treatment and prevention strategies.  
+- Bacteria or Methicillin-resistant Staphylococcus Aureus (MRSA) aspects that may concern understanding the mechanisms of resistance and exploring new treatment and prevention strategies.  
 
 
 
@@ -124,9 +124,10 @@ Figure 1 below depicts the main topics discovered. The color-coded regions are d
 
 
 ## Before Vs During and after pandemic
-Figure 3 is a distribution of the above identifed topics by pandemic period. 
+Figure 3 is a distribution of the above identified topics by pandemic period. 
 
   - The focus before pandemic was on  UTI and nursing homes, pneumonia and upper respiratory tract infections, and antibiotic prescription practices. 
+
   - During and after the pandemic, there's a shift that prioritizes antibiotic prescription practices, followed by UTIs and nursing homes, and then pneumonia. 
 
 
@@ -195,7 +196,7 @@ For our techies, where do we go from here? Our insights highlight potential junc
 
 
 # Other Notes/Context 
-- Our search strategy on PubMed was intended to capture a broad yet relevant collection of community-level AMR research as **pertains to what actions....**. The search term used was 
+- Our search strategy on PubMed was intended to capture a broad yet relevant collection of research on community-level AMR tools. The search term used was 
 
 ```("Anti-Microbial" or "antimicrobial" or "anti-biotic" or "antibiotic") and (resistance) and (“community level” or “community-level” or “market side” or “demand side” or  “at-home“  or “at home” ) and (tools or methods or techniques or models or "deep learning" or "machine learning" or "generative AI" or "AI" or "LLM" or "large language models")```
 
